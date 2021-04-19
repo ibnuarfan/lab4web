@@ -1,3 +1,11 @@
+Nama   : IBNU SOFFI ARFAN
+NIM    : 311910359
+KELAS  : TI 19 B2
+
+
+
+
+
 # lab4web
 Pertanyaan dan Tugas 
 1. Tambahkan Layout untuk menu About => buat single layout yang berisi deskripsi, portfolio, dll
@@ -10,6 +18,6 @@ jawab :
 ![latian2](https://user-images.githubusercontent.com/81373389/115138850-d2416780-a058-11eb-917a-458e69913ad2.JPG)
 ![Capture](https://user-images.githubusercontent.com/81373389/115138854-d8374880-a058-11eb-9718-14f0fd109adc.JPG)
 ![latian3](https://user-images.githubusercontent.com/81373389/115138858-de2d2980-a058-11eb-9862-257e6c935e41.JPG)
-![latian4](https://user-images.githubusercontent.com/81373389/115138870-f00ecc80-a058-11eb-9d61-1f196a01aedf.JPG)
-![latian5](https://user-images.githubusercontent.com/81373389/115138872-f56c1700-a058-11eb-8665-a05da1380fd6.JPG)
+![update1](https://user-images.githubusercontent.com/81373389/115285166-c13b4800-a177-11eb-97ea-9a8b196ff769.JPG)
+![update2](https://user-images.githubusercontent.com/81373389/115285187-c5fffc00-a177-11eb-81f7-f6e56c5fd4f5.JPG)
 
